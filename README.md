@@ -1,5 +1,7 @@
-# titanic-survival-prediction
 # Titanic Survival Prediction
+
+## Overview
+The Titanic disaster, occurring on April 15, 1912, remains one of the most tragic maritime events in history, claiming the lives of over 1,500 passengers and crew. This project aims to unravel the patterns and factors influencing survival, using the dataset's features such as passenger class, age, gender, fare, and more.
 
 This project aims to predict the survival of passengers from the Titanic dataset using logistic regression. The program includes data preprocessing, feature scaling, dimensionality reduction using PCA, model training, and evaluation.
 
