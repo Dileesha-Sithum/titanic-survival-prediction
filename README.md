@@ -39,13 +39,13 @@ This project aims to predict the survival of passengers from the Titanic dataset
 ## Project Structure
 
 titanic-survival-prediction/
-├── titanic_survival_prediction.py
-├── requirements.txt
-├── README.md
-└── data/
-├── train.csv
-├── test.csv
-└── gender_submission.csv
+- titanic_survival_prediction.py
+- requirements.txt
+- README.md
+- data/
+- train.csv
+- test.csv
+- gender_submission.csv
 
 
 ## Data Preprocessing
