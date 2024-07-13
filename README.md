@@ -106,5 +106,5 @@ Feel free to adjust the content to better fit your specific needs and project de
 This project is licensed under the MIT License.
 
 ## Acknowledgments
-Kaggle Titanic Dataset
+[Kaggle Titanic Dataset](https://www.kaggle.com/mrisdal/titanic/exploring-survival-on-the-titanic)
 
