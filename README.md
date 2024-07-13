@@ -51,9 +51,9 @@ titanic-survival-prediction/
 
 ## Data Preprocessing
 
-- Load Dataset: The training dataset is loaded from `train.csv`.
-- Missing Values: Missing values in the 'Age' column are filled with the mean age.
-- Categorical Data: The 'Sex' column is converted into numerical format using one-hot encoding.
+- **Load Dataset**: The training dataset is loaded from `train.csv`.
+- **Missing Values**: Missing values in the 'Age' column are filled with the mean age.
+- **Categorical Data**: The 'Sex' column is converted into numerical format using one-hot encoding.
 
 ## Model Training and Evaluation
 
@@ -101,3 +101,10 @@ weighted avg       0.81      0.81      0.81       199
 
 
 Feel free to adjust the content to better fit your specific needs and project details.
+```
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgments
+Kaggle Titanic Dataset
+
