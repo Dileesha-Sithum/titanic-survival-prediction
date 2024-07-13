@@ -1,9 +1,8 @@
 # Titanic Survival Prediction
+Welcome to the Titanic Survival Prediction repository! This project leverages advanced machine learning techniques to predict the survival of passengers aboard the RMS Titanic using the famous Titanic dataset. This dataset, which includes passenger demographics and survival status, is a staple in data science challenges and serves as an excellent foundation for exploring machine learning algorithms.
 
-## Overview
+##Project Overview
 The Titanic disaster, occurring on April 15, 1912, remains one of the most tragic maritime events in history, claiming the lives of over 1,500 passengers and crew. This project aims to unravel the patterns and factors influencing survival, using the dataset's features such as passenger class, age, gender, fare, and more.
-
-This project aims to predict the survival of passengers from the Titanic dataset using logistic regression. The program includes data preprocessing, feature scaling, dimensionality reduction using PCA, model training, and evaluation.
 
 ## Table of Contents
 
@@ -52,9 +51,9 @@ titanic-survival-prediction/
 
 ## Data Preprocessing
 
-- **Load Dataset**: The training dataset is loaded from `train.csv`.
-- **Missing Values**: Missing values in the 'Age' column are filled with the mean age.
-- **Categorical Data**: The 'Sex' column is converted into numerical format using one-hot encoding.
+- Load Dataset: The training dataset is loaded from `train.csv`.
+- Missing Values: Missing values in the 'Age' column are filled with the mean age.
+- Categorical Data: The 'Sex' column is converted into numerical format using one-hot encoding.
 
 ## Model Training and Evaluation
 
